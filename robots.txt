@@ -1,0 +1,4 @@
+# Validation version. Page metadata remains noindex until commercial launch.
+User-agent: *
+Allow: /
+Sitemap: https://oficio-growth.fabriziocondes07.chatgpt.site/sitemap.xml
